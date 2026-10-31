@@ -1,10 +1,10 @@
-# Amar Baper Rasta 🏍️
+# Amar Baper Rasta
 
 ### আমার বাপের রাস্তা · AI Edition
 
 Built by **Team Crack Platoon** for Hacktoberfest Hack Day.
 
-An AI-powered browser bike arcade game set on a chaotic Bangladeshi street. Dodge traffic, cows, rickshaws, and potholes, collect coins and fuel, and take to the air when the road gets too crowded.
+An AI-powered browser arcade game set on a chaotic Bangladeshi street. Dodge traffic, cows, rickshaws, and potholes, collect coins and fuel, and take to the air when the road gets too crowded.
 
 Gemma adds a running commentary to the ride: satirical news, crash roasts, tactical tips, and interactive police or crowd encounters where generated dialogue can affect the game.
 
