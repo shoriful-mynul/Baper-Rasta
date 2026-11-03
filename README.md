@@ -4,6 +4,8 @@
 
 Built by **Team Crack Platoon** for Hacktoberfest Hack Day.
 
+🎮 **[Play the Game](https://shoriful-mynul.github.io/Baper-Rasta/)**
+
 An AI-powered browser arcade game set on a chaotic Bangladeshi street. Dodge traffic, cows, rickshaws, and potholes, collect coins and fuel, and take to the air when the road gets too crowded.
 
 Gemma adds a running commentary to the ride: satirical news, crash roasts, tactical tips, and interactive police or crowd encounters where generated dialogue can affect the game.
@@ -27,6 +29,10 @@ The game interface, styles, and gameplay logic live in `index.html`, using vanil
 - **Touch controls:** On-screen steering, flight, and dive buttons for mobile play.
 
 ## Quick start
+
+Play online: [Open the live demo](https://shoriful-mynul.github.io/Baper-Rasta/) — no download required.
+
+To run the game locally:
 
 1. Download or clone this repository.
 2. Open `index.html` in a modern browser.
